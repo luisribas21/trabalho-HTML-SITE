@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  body {
+    color: rgba(13, 209, 167, 0.781);
+  }
+  body {
+    background-color: rgb(0, 33, 54);
+  }
+  h1 {
+    text-shadow: 2px 2px purple;
+  }
+ #imag3 {width: 700px}
+ #imag1 {width:  700px}
+ h4 {
+  text-align: center;}
+  h2 {
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+  }
+  h4 {
+    color: rgb(181, 194, 5);
+  }
+  h3 {
+    text-align: center;}
